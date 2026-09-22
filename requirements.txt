@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+transformers
+pillow
+matplotlib
+numpy
+scikit-learn
+umap-learn
+pycocotools
+pytest
+scipy
